@@ -14,6 +14,7 @@ int main() {
     double a;
 
     double zmina_1; //зміна №1, коміт №2
+    double zmina_2; //зміна №2, коміт №3
 
     double Pi = 3.14159265358979;
 
