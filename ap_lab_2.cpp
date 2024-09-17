@@ -16,6 +16,8 @@ int main() {
     double zmina_1; //зміна №1, коміт №2
     double zmina_2; //зміна №2, коміт №3
 
+    double zmina_task_3; //зміна для 3 завд., коміт №5
+
     double Pi = 3.14159265358979;
 
     cout << "Enter a: ";

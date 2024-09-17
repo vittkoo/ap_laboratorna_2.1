@@ -1,4 +1,6 @@
 ﻿  ap_lab_2.cpp
 D:\VS_projects\ap_lab_2.1_2.0\ap_lab_2.cpp(17,12): warning C4101: 'zmina_2': unreferenced local variable
 D:\VS_projects\ap_lab_2.1_2.0\ap_lab_2.cpp(16,12): warning C4101: 'zmina_1': unreferenced local variable
+D:\VS_projects\ap_lab_2.1_2.0\ap_lab_2.cpp(19,12): warning C4101: 'zmina_task_3': unreferenced local variable
+  LINK : D:\VS_projects\ap_lab_2.1_2.0\x64\Debug\ap_lab_2.1_2.0.exe not found or not built by the last incremental link; performing full link
   ap_lab_2.1_2.0.vcxproj -> D:\VS_projects\ap_lab_2.1_2.0\x64\Debug\ap_lab_2.1_2.0.exe
