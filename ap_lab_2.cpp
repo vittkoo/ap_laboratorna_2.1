@@ -16,7 +16,11 @@ int main() {
     double zmina_1; //зміна №1, коміт №2
     double zmina_2; //зміна №2, коміт №3
 
+<<<<<<< HEAD
     double zmina_task_3; //зміна для 3 завд., коміт "task_3"
+=======
+    double zmina_task_3; //зміна для 3 завд., коміт №5
+>>>>>>> 1730387abd7207eeb9d2f0f9f9dc19738c744e6e
 
     double Pi = 3.14159265358979;
 
