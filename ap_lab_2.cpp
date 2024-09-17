@@ -13,6 +13,8 @@ int main() {
     double z2;
     double a;
 
+    double zmina_1; //зміна №1, коміт №2
+
     double Pi = 3.14159265358979;
 
     cout << "Enter a: ";
