@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS_projects\\ap_lab_2.1_2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2631D88-DECF-464D-A384-9E1ABE4638DF}|ap_lab_2.1_2.0.vcxproj|D:\\VS_projects\\ap_lab_2.1_2.0\\ap_lab_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2631D88-DECF-464D-A384-9E1ABE4638DF}|ap_lab_2.1_2.0.vcxproj|solutionrelative:ap_lab_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ap_lab_2.cpp",
+              "DocumentMoniker": "D:\\VS_projects\\ap_lab_2.1_2.0\\ap_lab_2.cpp",
+              "RelativeDocumentMoniker": "ap_lab_2.cpp",
+              "ToolTip": "D:\\VS_projects\\ap_lab_2.1_2.0\\ap_lab_2.cpp",
+              "RelativeToolTip": "ap_lab_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-17T13:47:09.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
